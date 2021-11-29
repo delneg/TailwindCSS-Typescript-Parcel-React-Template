@@ -14,8 +14,15 @@
       "last 1 safari version"
     ]
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "typescript",
+    "parcel",
+    "tailwindcss",
+    "redux",
+    "postcss"
+  ],
+  "author": "delneg",
   "scripts": {
     "start": "parcel public/index.html --open",
     "clean": "rimraf ./dist",
